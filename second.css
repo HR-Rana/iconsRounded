@@ -28,8 +28,8 @@
 #body{
     /* background-color: #f1f1f1; */
     font-family: 'Roboto', cursive;
-   background: url("images/wave.png");
-   background-attachment: fixed;
+   background: linear-gradient(to right, rgba(255, 255, 255, 0.90), rgba(255, 255, 255, 0.90)),url("images/redd-qMFSP1xYVTQ-unsplash.jpg");
+  background-position: center;
 }
 
 /* .navbar{
@@ -106,13 +106,8 @@ a{
 }
 
 
-.button {
-    text-align: center;
-}
-.button button a{
-    text-decoration: none;
-    color: white;
-}
+
+
 
 
 
@@ -206,7 +201,7 @@ a{
 
 
 .white-background{
-    background-color: rgba(255, 255, 255, 0.365);
+    /* background-color: rgba(255, 255, 255, 0.365); */
     padding:50px 0;
 
 }
@@ -225,7 +220,7 @@ a{
   
 }
 .icon2{
- 
+   
 }
 .icon2 i{
     width: 80px;
@@ -235,7 +230,7 @@ a{
     background: linear-gradient(to bottom, #e0dede, #e4e4e4);
     padding: 20px 15px;
     color: #184e77;
-   
+  
 }
 
 
@@ -338,7 +333,7 @@ a{
 .icon2 i{
     font-size: 40px;
     position: relative; 
-    top: 20%;
+    top: 25%;
     left: 10%;
     padding: 15px;
     transition: .7s;
@@ -513,7 +508,7 @@ button{
 
 
  .second-part{
-   background-color: #f1f1f1;
+   /* background-color: #f1f1f1; */
    padding: 250px 0;
  }
 
@@ -636,8 +631,8 @@ button{
 
  .third-part{
     padding: 25px 0;
-    background:linear-gradient(to bottom, rgba(250,250,250, .96),rgba(250,250,250, .96)),url(images/background-g8e5f12ae9_1920.jpg);
-    background-attachment: fixed;
+    /* background:linear-gradient(to bottom, rgba(250,250,250, .96),rgba(250,250,250, .96)),url(background-g8e5f12ae9_1920.jpg);
+    background-attachment: fixed; */
     
  }
  .third-part .Brand a:hover{
